@@ -21,5 +21,5 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <README.md>
+   git clone <https://github.com/Kappa161/Autoclicker.git>
    cd AutoClicker
