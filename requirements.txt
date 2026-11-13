@@ -1,0 +1,3 @@
+pynput==2.0.4
+Pillow==10.4.0
+PyInstaller==6.22.3
